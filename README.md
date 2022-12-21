@@ -20,4 +20,7 @@ require("vetur-self-closing").setup()
 
 <!-- buf enter -->
 <i18n src="./sample.json"></i18n>
+
+<!-- buf leave -->
+<i18n src="./sample.json" />
 ```
